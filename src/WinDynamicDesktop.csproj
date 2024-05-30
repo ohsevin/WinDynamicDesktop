@@ -56,8 +56,9 @@
     <Reference Include="NGettext, Version=0.6.1.0, Culture=neutral, PublicKeyToken=08d3d1c89dfd2985, processorArchitecture=MSIL">
       <HintPath>packages\NGettext.0.6.3\lib\net46\NGettext.dll</HintPath>
     </Reference>
-    <Reference Include="RestSharp, Version=106.6.9.0, Culture=neutral, PublicKeyToken=598062e77f915f75, processorArchitecture=MSIL">
-      <HintPath>packages\RestSharp.106.6.9\lib\net452\RestSharp.dll</HintPath>
+    <Reference Include="RestSharp, Version=106.12.0.0, Culture=neutral, PublicKeyToken=598062e77f915f75">
+      <HintPath>packages/RestSharp.106.12.0/lib/net452/RestSharp.dll</HintPath>
+      <Private>True</Private>
     </Reference>
     <Reference Include="SunCalcNet, Version=1.0.2.0, Culture=neutral, processorArchitecture=MSIL">
       <HintPath>packages\SunCalcNet.1.0.2\lib\net461\SunCalcNet.dll</HintPath>
